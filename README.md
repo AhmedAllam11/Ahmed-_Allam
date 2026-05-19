@@ -8,7 +8,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahmed-Allam&style=flat&color=61DAFB&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=AhmedAllam11&style=flat&color=61DAFB&label=PROFILE+VIEWS)
 
 </div>
 
@@ -38,15 +38,36 @@ const AhmedAllam = {
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 My Learning Journey
 
-
-
-```md
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAllam11&show_icons=true&theme=tokyonight&hide_border=true" width="55%"/>
-</div>
+```text
+HTML5          ████████████████████░░░░   80%
+CSS3           ███████████████████░░░░░   75%
+JavaScript     ██████████████░░░░░░░░░░   55%
+Tailwind CSS   █████████████░░░░░░░░░░░   50%
+React          ████████░░░░░░░░░░░░░░░░   30%
 ```
+
+---
+
+## 🎯 Goals for 2025
+
+- [x] ✅ Learn HTML & CSS Fundamentals
+- [x] ✅ Build my first webpage
+- [x] ✅ Learn JavaScript Basics
+- [x] ✅ Learn Tailwind CSS
+- [ ] 🔄 Master React.js
+- [ ] ⏳ Build 3 real projects
+- [ ] ⏳ Learn TypeScript
+- [ ] ⏳ Get my first Frontend Job
+
+---
+
+## 📌 What I'm Currently Working On
+
+> 🔨 Building projects to strengthen my **React** & **JavaScript** skills  
+> 📚 Learning **component-based** design with React  
+> 🎨 Practicing **responsive design** with Tailwind CSS  
 
 ---
 
