@@ -41,8 +41,8 @@ const AhmedAllam = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAllam11&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAllam11&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AhmedAllam11&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedAllam11&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" width="40%" />
 </div>
 
 <div align="center">
